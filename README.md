@@ -1,19 +1,22 @@
+💻 C - 30 Days Challenge 🚀🥇
 
-# C - 30 Days Challenge 🚀🥇
+Welcome to my 30-day C Programming Challenge!
+This repository contains a 1-month (30-day) daily study and coding plan I created to help learn, memorize, and practice the C programming language.
 
-Bu repo, C dilini hatırlamak ve pratik yapmak için hazırladığım  1 aylık (30 gün) günlük çalışma planı içerir.  
-Her gün yeni bir konu / küçük proje ekleyeceğim ve GitHub’da paylaşacağım.Bu sayede GitHub'da aktifleşmek ve disiplini kazanmaya çalışacağım. 
+Each day, I will add a new topic or mini project related to C programming and share my progress here. The goal is to stay consistent, become more active on GitHub, and strengthen my discipline as a developer.
 
-## 📅 Günlük Plan
-- **Day 1:** Hello World 👋
-- **Day 2:** Değişkenler ve kullanıcıdan input alma
-- **Day 3:** Koşullu ifadeler (if-else, switch)
-- **Day 4:** Döngüler
-- **Day 5:** Küçük algoritmalar (faktöriyel, Fibonacci, asal sayı kontrolü)
-- ...
-- **Day 30:** Final Proje 🎯
+📅 Daily Plan
+Day	     Topic
+Day 1	   Hello World 👋
+Day 2	   Variables and User Input
+Day 3	   Conditional Statements (if-else, switch)
+Day 4	   Loops (for, while, do-while)
+Day 5	   Small Algorithms (factorial, Fibonacci, prime checking)
+...	...
+Day 30	 Final Project 🎯
 
-## ✨ Hedef
-- C dilini hatırlamak
-- Algoritma pratiği yapmak
-- GitHub üzerinde düzenli çalışma disiplini kazanmak
+✨ Goals
+🧠 Memorize and strengthen core concepts of the C language
+🛠️ Practice solving algorithmic problems
+📈 Build discipline through consistent daily progress
+🌐 Be more active on GitHub
