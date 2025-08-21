@@ -1,5 +1,4 @@
-# 30-days-challenge
-C dilini hatırlamak için 30 günlük günlük çalışma planım.
+
 # C - 30 Days Challenge 🚀
 
 Bu repo, C dilini hatırlamak ve pratik yapmak için hazırladığım  1 aylık (30 gün) günlük çalışma planı içerir.  
