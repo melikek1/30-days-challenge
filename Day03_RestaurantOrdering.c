@@ -5,7 +5,7 @@ int main() {
     double price = 0.0, total = 0.0;
     char member;
 
-    printf("=== Welcome to MelikeK Cafe ===\n");
+    printf("=== Welcome to MelikeK Restaurant ===\n");
     printf("Menu:\n");
     printf("1. Burger (350 TL)\n");
     printf("2. Pizza (360 TL)\n");
